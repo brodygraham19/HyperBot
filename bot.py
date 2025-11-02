@@ -3,7 +3,7 @@ import discord
 from discord.ext import commands
 from discord import app_commands
 
-TOKEN = ""  # paste token
+TOKEN = "MTQzNDM4NTU0MzM2NTM5NDU0Ng.GOhJ1V.NrGzvVtZCMhPtFgu0S6YSfG17APKsxb61E-Ac"
 
 GUILD_ID = 1202078664121126912
 VERIFIED_ROLE_ID = 1431814189202018344
